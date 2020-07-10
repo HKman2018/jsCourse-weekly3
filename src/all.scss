@@ -1,0 +1,16 @@
+$primary:#0E8A00;
+.wrap {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.modal-dialog {
+    max-width: 960px;
+}
